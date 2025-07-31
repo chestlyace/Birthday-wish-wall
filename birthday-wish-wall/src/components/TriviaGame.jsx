@@ -16,65 +16,65 @@ const TriviaGame = () => {
     {
       id: 1,
       question: "What's the birthday person's favorite color?",
-      options: ["Blue", "Purple", "Green", "Pink"],
+      options: ["Blue", "Black", "Green", "Pink"],
       correct: 1,
-      explanation: "Purple has always been their favorite since childhood!"
+      explanation: "Black has always been their favorite since childhood!"
     },
     {
       id: 2,
-      question: "In which month were they born?",
-      options: ["January", "July", "September", "December"],
-      correct: 1,
-      explanation: "A summer baby born in the beautiful month of July!"
+      question: "In which year were they born?",
+      options: ["2004", "2003", "2006", "2005"],
+      correct: 3,
+      explanation: "A summer baby born in the beautiful year of 2005"
     },
     {
       id: 3,
       question: "What's their favorite type of music?",
-      options: ["Pop", "Rock", "Jazz", "Classical"],
-      correct: 0,
-      explanation: "They love singing along to catchy pop songs!"
+      options: ["Rap", "Rock", "Jazz", "Classical"],
+      correct: 3,
+      explanation: "They love listening to classical music!"
     },
     {
       id: 4,
       question: "What's their dream vacation destination?",
       options: ["Paris", "Tokyo", "New York", "Bali"],
-      correct: 2,
+      correct: 1,
       explanation: "The city that never sleeps has always fascinated them!"
     },
     {
       id: 5,
       question: "What's their favorite food?",
-      options: ["Pizza", "Sushi", "Tacos", "Ice Cream"],
-      correct: 0,
-      explanation: "Nothing beats a good slice of pizza for them!"
+      options: ["Pizza", "Eru", "Shawarma", "Burger"],
+      correct: 1,
+      explanation: "Of course it's eru"
     },
     {
       id: 6,
       question: "What hobby do they enjoy most?",
-      options: ["Reading", "Gaming", "Cooking", "Photography"],
-      correct: 3,
-      explanation: "They love capturing beautiful moments through their lens!"
+      options: ["Anime", "Gaming", "Cooking", "Photography"],
+      correct: 0,
+      explanation: "Kimetsu No Yaiba!"
     },
     {
       id: 7,
-      question: "What's their favorite season?",
-      options: ["Spring", "Summer", "Fall", "Winter"],
-      correct: 2,
-      explanation: "The beautiful colors of autumn always make them happy!"
+      question: "What's their favorite Anime?",
+      options: ["Demon Slayer", "Jujutsu Kaisen", "Black Clover", "Naruto Shippuden"],
+      correct: 0,
+      explanation: "They love the art and story of Demon Slayer!"
     },
     {
       id: 8,
-      question: "What's their biggest fear?",
-      options: ["Heights", "Spiders", "Public Speaking", "Dark"],
+      question: "What's their favorite phone brand",
+      options: ["Google Pixel", "Samsung", "Iphone", "Itel"],
       correct: 0,
-      explanation: "They prefer to keep their feet firmly on the ground!"
+      explanation: "Google Pixel is their go-to choice!"
     },
     {
       id: 9,
       question: "What's their favorite movie genre?",
       options: ["Comedy", "Horror", "Romance", "Action"],
-      correct: 2,
-      explanation: "They're a hopeless romantic who loves a good love story!"
+      correct: 1,
+      explanation: "They love the thrill and suspense of horror movies!"
     },
     {
       id: 10,

@@ -37,7 +37,7 @@ const Header = () => {
       {/* Main Title */}
       <div className="relative z-10">
         <h1 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-yellow-500 bg-clip-text text-transparent mb-4">
-          🎉 Happy Birthday! 🎂
+          🎉 Happy Birthday Chestly Ace! 🎂
         </h1>
         <p className="text-2xl md:text-3xl text-gray-700 font-semibold mb-2">
           Welcome to Your Special Day
